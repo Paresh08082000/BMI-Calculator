@@ -1,2 +1,2 @@
 # BMI-Calculator
-This is my first project
+This is my first basic project 
